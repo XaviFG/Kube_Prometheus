@@ -1,1 +1,3 @@
-# Kube_Prometheus
+# PoC Testing Metrics with Docker, Kubernetes and Prometheus
+
+## 
